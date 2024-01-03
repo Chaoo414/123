@@ -1,0 +1,10 @@
+<html>
+    <head><title>有序編號</title></head>
+    <body>
+        <ol>我最欣賞的藝人
+            <li>豬哥亮</li>
+            <li>吳宗憲</li>
+            <li>徐熙娣</li>
+        </ol>
+    </body>
+</html>
