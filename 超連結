@@ -1,0 +1,8 @@
+<html>
+    <head><title>超連結</title></head>
+    <body>
+        <a href="http://www.google.com">google</a>
+        <br>
+       <a href="https://github.com/shhuangmust/html/blob/112-1/11.%E5%9C%96%E7%89%87.html"><img src="https://upload.wikimedia.org/wikipedia/commons/7/75/%E8%A8%B1%E5%85%89%E6%BC%A2_-_%E6%8C%91%E6%88%B0%E4%B8%8D%E8%A8%B1%E8%AA%AA%E8%A9%B1%EF%BC%81ELLE_Taiwan_02.png"></a>
+     </body>
+</html>
