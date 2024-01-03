@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <title>Javascript</title>
+
+    </head>
+    <body>
+        nihao 
+        <script>
+            document.writeln("java java!!");
+        </script>
+        happy!
+        <script>
+            alert("這是java!!");
+        </script>
+    </body>
+</html>
